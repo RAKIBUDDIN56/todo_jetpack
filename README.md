@@ -1,1 +1,2 @@
-# Simple android app develped with Jeypack Compose and Room. 
+
+Simple android app developed with Jeypack Compose and Room. 
